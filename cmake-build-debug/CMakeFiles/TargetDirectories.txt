@@ -1,0 +1,3 @@
+/home/avichai/CLionProjects/Evo1b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/avichai/CLionProjects/Evo1b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/avichai/CLionProjects/Evo1b/cmake-build-debug/CMakeFiles/Evo1b.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avichai/CLionProjects/Evo1b/Chrom.h
+vector
+-
+
+/home/avichai/CLionProjects/Evo1b/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+algorithm
+-
+fstream
+-
+Chrom.h
+/home/avichai/CLionProjects/Evo1b/Chrom.h
+
